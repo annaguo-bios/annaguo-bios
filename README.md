@@ -4,7 +4,13 @@
 Hi, I’m Anna. I’m a PhD candidate in Biostatistics at Emory.
 
 - 👩 My personal [website](https://guoanna.com/)
-- 🔭 I’m currently working on causal inference and machine learning.
+- 🔭 I’m broadly interested in causal inference and machine learning,
+  with a focus on:
+  - Causal perspectives on **missing data**
+  - Flexible estimation of causal effects using **targeted learning and
+    double de-biased machine learning**
+  - Identification of causal effects in the presence of **unmeasured
+    confounding**
 
 ## Projects
 
